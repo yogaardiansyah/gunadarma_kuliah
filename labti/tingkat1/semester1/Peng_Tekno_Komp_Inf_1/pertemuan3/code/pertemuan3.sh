@@ -1,8 +1,3 @@
-touch pertemuan3
-nano pertemuan3
-~
-~
-~
 echo "=================================" 
 echo "        BIODATA MAHASISWA        "
 echo "================================="
@@ -23,8 +18,3 @@ echo "NPM		: " $npm
 echo "Kelas	: " $kelas
 echo "Nilai	: " $nilai
 echo "---------------------------------"
-~
-~
-~
-chmod +x pertemuan3
-./pertemuan3

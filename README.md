@@ -16,8 +16,8 @@ Nama  : Yoga Ardiansyah
 | Link  | Lank | Lunk | 
 | ------------- | ------------- | ---------------- |
 | [ V-Class](https://v-class.gunadarma.ac.id/) | [BAAK UG](https://baak.gunadarma.ac.id/) | [Student Site UG](https://studentsite.gunadarma.ac.id/) |
-| [StafF Site](http://staffsite.gunadarma.ac.id/index.php?go=search) | [LabTI](http://ti.lab.gunadarma.ac.id/) | [Lepkom](https://vm.lepkom.gunadarma.ac.id/) |
-| [LepKrss](https://kursusvmlepkom.gunadarma.ac.id/)|[FormDKI](https://onlineform.bankdki.co.id/login)|[Blogspot](https://ugyogaardiansyah.blogspot.com/) |
+| [Staff Site](http://staffsite.gunadarma.ac.id/index.php?go=search) | [LabTI](http://ti.lab.gunadarma.ac.id/) | [Lepkom](https://vm.lepkom.gunadarma.ac.id/) |
+| [LepKursus](https://kursusvmlepkom.gunadarma.ac.id/)|[FormDKI](https://onlineform.bankdki.co.id/login)|[Blogspot](https://ugyogaardiansyah.blogspot.com/) |
 
 ```
 Jangan Maling ini repo woi !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!

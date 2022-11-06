@@ -1,6 +1,6 @@
 # Repo Perkuliahan Gunadarma
 >Repository ini berisi Jawaban dan Materi Materi selama berkuliah di gunadarma
->Milik Saya Aoawkaowkaowkaowkaowkaowkaowk
+ini Milik Saya Aoawkaowkaowkaowkaowkaowkaowk
 
 ```
 2022 - 

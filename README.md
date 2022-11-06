@@ -14,13 +14,21 @@ Nama  : Yoga Ardiansyah
 ```
 ### Link Website Gunadarma
 ####[V-Class](https://v-class.gunadarma.ac.id/)
+
 ####[BAAK UG](https://baak.gunadarma.ac.id/)    
+
 ####[SS UG](https://studentsite.gunadarma.ac.id/)
+
 ####[StfS](http://staffsite.gunadarma.ac.id/index.php?go=search)
+
 ####[LabTI](http://ti.lab.gunadarma.ac.id/)
+
 ####[Lepkom](https://vm.lepkom.gunadarma.ac.id/)
+
 ####[LepKrss](https://kursusvmlepkom.gunadarma.ac.id/)
+
 ####[FormDKI](https://onlineform.bankdki.co.id/login)
+
 ####[Blogspot](https://ugyogaardiansyah.blogspot.com/)
 
 ```

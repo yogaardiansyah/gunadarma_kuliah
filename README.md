@@ -19,10 +19,25 @@ Kuliah mahal ges
 
 
 >```
->Daftar Dosen Pengajar
+>                                   Daftar Dosen Pengajar
 >
+>                                                                             Tingkat 1 / Semester 1
 > Mata Perkuliahan                        Dosen                       Repo
 >Algoritma Dan Pemrograman 1A       Budi Utami Fahnun             Algo_Pemr_1A
 >Algoritma Dan Pemrograman 1B       Nyoman Parwa Dinawan
 >Algoritma Dan Pemrograman 1C       Makmun
+>```
+
+>```
+>                                   Daftar Penanggung Jawab Praktikum
+>                                                                             Tingkat 1 / Semester 1
+>
+>
+>```
+
+>```
+>                                   Daftar Penanggung Jawab Kursus
+>
+>
+>
 >```

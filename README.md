@@ -1,6 +1,11 @@
 # Repo Perkuliahan Gunadarma
 >Repository ini berisi Jawaban dan Materi Materi selama berkuliah di gunadarma
->
+
+
+<div align="center">
+<img src="https://baak.gunadarma.ac.id/public/images/logo2.png" width="250">
+</div>
+
 >ini Milik Saya Aoawkaowkaowkaowkaowkaowkaowk
 ```
 2022 - 

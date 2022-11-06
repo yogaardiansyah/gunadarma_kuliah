@@ -12,4 +12,4 @@ Nama  : Yoga Ardiansyah
 Jangan Maling ini repo woi !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Kuliah mahal ges
 ```
-![NekonoiMeme](https://raw.githubusercontent.com/yogaardiansyah/Algoritma_Pemrograman_1A/main/nekonoi_pekora.jpg)
+<img src="https://raw.githubusercontent.com/yogaardiansyah/Algoritma_Pemrograman_1A/main/nekonoi_pekora.jpg" width="400">

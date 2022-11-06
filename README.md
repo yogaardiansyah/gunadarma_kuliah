@@ -7,6 +7,19 @@
 
 V - Class (Moodle) 
 https://v-class.gunadarma.ac.id/
+BAAK
+https://baak.gunadarma.ac.id/
+Student Site
+
+Staff Site
+
+Lepkom
+
+LAB TI
+
+Online Form Bank DKI
+
+Blogspot Saya
 
 ```
 2022 - 

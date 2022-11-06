@@ -3,6 +3,11 @@
 >
 >ini Milik Saya Aoawkaowkaowkaowkaowkaowkaowk
 
+### Link Website Gunadarma
+
+V - Class (Moodle) 
+https://v-class.gunadarma.ac.id/
+
 ```
 2022 - 
 NPM   : 51422643

@@ -7,17 +7,17 @@
 NPM   : 51422643
 Nama  : Yoga Ardiansyah
 ```
-```
+
 ### Link Website Gunadarma
-V - Class (Moodle)      https://v-class.gunadarma.ac.id/
-BAAK                    https://baak.gunadarma.ac.id/\
-Student Site
-Staff Site
-Lepkom
-LAB TI
-Online Form Bank DKI
-Blogspot Saya
-```
+>V - Class (Moodle)      https://v-class.gunadarma.ac.id/
+>BAAK                    https://baak.gunadarma.ac.id/
+>Student Site
+>Staff Site
+>Lepkom
+>LAB TI
+>Online Form Bank DKI
+>Blogspot Saya
+
 ```
 Jangan Maling ini repo woi !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Kuliah mahal ges

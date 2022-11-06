@@ -15,3 +15,8 @@ Kuliah mahal ges
 <div align="center">
 <img src="https://raw.githubusercontent.com/yogaardiansyah/Algoritma_Pemrograman_1A/main/nekonoi_pekora.jpg" width="400">
 </div>
+
+
+>```
+>Dosen
+>```

@@ -13,10 +13,10 @@ NPM   : 51422643
 Nama  : Yoga Ardiansyah
 ```
 ### Link Website Gunadarma
-<a href="[vcl](https://v-class.gunadarma.ac.id/)">V - Class (Moodle) </a>
-<a href="[baak](https://baak.gunadarma.ac.id/)">BAAK Gunadarma </a>    
->Student Site
->Staff Site
+[V-Class](https://v-class.gunadarma.ac.id/)
+[BAAK UG](https://baak.gunadarma.ac.id/)    
+[SS UG](https://studentsite.gunadarma.ac.id/)
+[StfS](http://staffsite.gunadarma.ac.id/index.php?go=search)
 >Lepkom
 >LAB TI
 >Online Form Bank DKI

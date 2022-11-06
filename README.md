@@ -18,5 +18,6 @@ Kuliah mahal ges
 
 
 >```
->Dosen
+>Daftar Dosen Pengajar
+>
 >```

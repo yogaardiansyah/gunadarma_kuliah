@@ -1,0 +1,8 @@
+program ProgramPertamaku; 
+{$APPTYPE CONSOLE}
+begin
+{TODO -oUser -cConsole Main : Insert code here}
+writeln ( 'Halo Dunia :D');
+readln;
+end.
+

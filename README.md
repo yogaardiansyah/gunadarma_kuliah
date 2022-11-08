@@ -49,6 +49,6 @@ Kuliah mahal ges
 >```
 >                                   Daftar Penanggung Jawab Kursus
 >
->
->
+> Mata Kursus                         Penanggung Jawab                      Repo
+> Fundamental Desktop                  MUHAMMAD ABIYYU
 >```

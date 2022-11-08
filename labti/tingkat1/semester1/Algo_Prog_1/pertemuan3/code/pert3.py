@@ -1,3 +1,30 @@
-= 1 print ( " == Program Menentukan Tingkat Resiko Penyakit Jantung == " ) data = int ( input ( " Masukkan banyak data : " ) ) # Menggunakan aturan berdasarkan umur dan Indeks Massa Tubuh ( IMT ) while x < = data : print ( " === print ( ) print ( " print ( ) print ( " print ( ) nama = input ( " Masukkan Nama Anda umur = int ( input ( " Masukkan Umur Anda : " ) ) bb = int ( input ( " Masukkan Berat Badan ( kg ) " ) ) tb = int ( input ( " Masukkan Tinggi Badan ( cm ) : " ) ) print ( ) print ( " = = Data ke- " , x ) imt bb / ( ( tb / 100 ) print ( " Nama print ( " Umur print ( " Berat Badan : " , bb , " kg " ) print ( " Tinggi Badan : " , tb , " cm " ) Data Pasien else : ( tb / 100 ) ) nama ) if umur < 45 and imt < 22.0 : print ( " Tingkat resiko penyakit jantung Anda : RENDAH " ) X = x + 1 : " , umur ) elif ( umur < 45 and imt > = 22.0 ) or ( umur > = 45 and imt < 22.0 print ( " Tingkat resiko penyakit jantung Anda : SEDANG " ) 
-
-print ( " Tingkat resiko penyakit jantung Anda : TINGGI " )
+x = 1
+print ("== Program Menentukan Tingkat Resiko Penyakit Jantung ==") 
+data = int(input( " Masukkan banyak data : ")) 
+# Menggunakan aturan berdasarkan umur dan Indeks Massa Tubuh (IMT) 
+while x <= data :
+    print("==================================================")
+    print()
+    print("                                Data ke-",   x)
+    print()
+    print("=================Data Pasien======================")
+    nama = input("Masukan Nama Anda             : ")
+    umur = int(input("Masukan Umur Anda             : "))
+    bb = int(input("Masukan Berat Badan (kg)          : "))
+    tb = int(input("Masukan Tinggi Badan (cm)         : "))
+    print()
+    print("==================================================")
+    imt = bb / ((tb/100) * (tb/100))
+    print("Nama             : ",nama)
+    print("Umur             : ",umur)
+    print("Berat Badan      : ",bb,"kg")
+    print("Tinggi Badan     : ",tb,"cm")
+    
+    if umur < 45 and imt < 22.0 :
+        print(" Tingkat resiko penyakit jantung Anda : Rendah " )
+    elif (umur < 45 and imt >= 22.0) or (umur >= 45 and imt < 22.0) :
+        print(" Tingkat resiko penyakit jantung Anda : Sedang " )
+    else :
+        print( " Tingkat resiko penyakit jantung Anda : Tinggi " )
+    
+    x=x+1

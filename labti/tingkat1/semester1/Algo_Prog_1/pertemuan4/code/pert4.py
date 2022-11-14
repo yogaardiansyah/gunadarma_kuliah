@@ -1,17 +1,17 @@
 def main():
     print("\n == PERTEMUAN 4 ==")
     print("====== Menu ======")
-    print("1 . Method append")
-    print("2 . Method sort")
-    print("3 . Method reverse")
-    print("4 . Method index")
-    print("5 . Method insert")
-    print("6 . Method count")
-    print("7 . Method remove")
-    print("8 . Method po")
-    print("9 . Exit")
+    print("1. Method append")
+    print("2. Method sort")
+    print("3. Method reverse")
+    print("4. Method index")
+    print("5. Method insert")
+    print("6. Method count")
+    print("7. Method remove")
+    print("8. Method po")
+    print("9. Exit")
 
-    pil = int(input(" Masukkan pilihan : "))
+    pil = int(input("Masukkan pilihan : "))
 
     if pil == 1:
         print()

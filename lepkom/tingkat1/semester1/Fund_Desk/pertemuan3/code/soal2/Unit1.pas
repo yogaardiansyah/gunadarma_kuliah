@@ -50,3 +50,4 @@ edhasil.Text:=FloatToStr(StrToFloat(ednilai1.Text)/StrToFloat(ednilai2.Text))
 end;
 
 end.
+//Yoga Ardiansyah

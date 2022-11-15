@@ -71,3 +71,4 @@ edtotalbayar.Text := ' ' ;
 end;
 
 end.
+// Yoga Ardiansyah

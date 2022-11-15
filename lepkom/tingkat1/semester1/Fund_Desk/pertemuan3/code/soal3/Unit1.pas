@@ -58,3 +58,4 @@ edit2.Text:='Gagal'
 end;
 
 end.
+//Yoga Ardiansyah

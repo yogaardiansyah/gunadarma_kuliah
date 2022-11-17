@@ -51,10 +51,11 @@ Kuliah mahal ges
 >```
 
 >```
->                                   Daftar Penanggung Jawab Praktikum
->                                                                             Tingkat 1 / Semester 1
->
->
+>                                                 Daftar Penanggung Jawab Praktikum
+>                                                                                                        Tingkat 1 / Semester 1
+> Mata Kursus                                               Penanggung Jawab                      Repo            
+> Algoritma Dan Pemrograman 1                                 Gede Oke
+> Pengenalan Teknologi Komputer dan Informasi               Cincin Farah Oktirani
 >```
 
 >```

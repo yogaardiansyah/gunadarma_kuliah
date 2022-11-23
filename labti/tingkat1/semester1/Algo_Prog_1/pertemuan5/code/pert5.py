@@ -1,5 +1,5 @@
 def main():
-    print("/n === Data Mahasiswa ===")
+    print("\n === Data Mahasiswa ===")
     jmlh = int(input("Banyaknya File: "))
     for ulang in range(1, jmlh + 1 ):
         print()
@@ -15,7 +15,7 @@ def main():
             uu = int(input("Masukan Nilai UU : "))
             uas = int(input("Masukan Nilai UAS : "))
             total = (uts+uu+uas) / 3
-            data.write("=== Data Mahasiswa ===/n")
+            data.write("=== Data Mahasiswa ===\n")
             data.write("Data Mahasiswa ke-" + str(ulang) + "\n")
             data.write("Nama Anda : " + nama + "\n")
             data.write("Kelas Anda : " + kelas + "\n")
@@ -41,9 +41,9 @@ def main():
     print("\n=== Membaca Isi File ===")
     for ulang in range(1, jmlh +1):
         try:
-            nama_file = input("Masukan nama file yang telah dibuat")
+            nama_file = input("Masukan nama file yang telah dibuat: ")
             infile = open(nama_file, "r")
-            isi_file = infile.read
+            isi_file = infile.read()
             print(isi_file)
             infile.close
         except FileNotFoundError:

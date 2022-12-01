@@ -1,0 +1,15 @@
+C:\Users\riyan\source\repos\ConsoleApp6\bin\Debug\net7.0-windows\ConsoleApp6.exe
+C:\Users\riyan\source\repos\ConsoleApp6\bin\Debug\net7.0-windows\ConsoleApp6.deps.json
+C:\Users\riyan\source\repos\ConsoleApp6\bin\Debug\net7.0-windows\ConsoleApp6.runtimeconfig.json
+C:\Users\riyan\source\repos\ConsoleApp6\bin\Debug\net7.0-windows\ConsoleApp6.dll
+C:\Users\riyan\source\repos\ConsoleApp6\bin\Debug\net7.0-windows\ConsoleApp6.pdb
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.vbproj.AssemblyReference.cache
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.AssemblyInfo.vb
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.vbproj.CoreCompileInputs.cache
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.dll
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\refint\ConsoleApp6.dll
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.pdb
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ConsoleApp6.genruntimeconfig.cache
+C:\Users\riyan\source\repos\ConsoleApp6\obj\Debug\net7.0-windows\ref\ConsoleApp6.dll

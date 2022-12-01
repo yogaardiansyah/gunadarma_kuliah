@@ -1,0 +1,17 @@
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.vbproj.AssemblyReference.cache
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\riyan\source\repos\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\riyan\source\repos\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\riyan\source\repos\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\riyan\source\repos\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\riyan\source\repos\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\riyan\source\repos\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll

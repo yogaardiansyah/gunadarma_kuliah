@@ -8,7 +8,7 @@
 
 >ini Milik Saya Aoawkaowkaowkaowkaowkaowkaowk
 ```
-2022 - 
+2022 - 2024
 NPM   : 51422643
 Nama  : Yoga Ardiansyah
 ```
